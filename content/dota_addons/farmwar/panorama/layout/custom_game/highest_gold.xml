@@ -1,0 +1,35 @@
+<root>
+    <styles>
+		  <include src="file://{resources}/styles/highest_scores.css" />
+    </styles>
+
+    <scripts>
+      <include src="file://{resources}/scripts/highest_scores.js" />
+    </scripts>
+
+    <Panel  hittest="false">
+    	<Panel id="topbarradianttext" class="topbarradianttext">
+      	<Label text="Radiant's Highest net worth hero : " />
+      </Panel>
+
+      <Panel id="topbarradiantpicture" class="topbarradiantpicture">
+        <DOTAHeroImage heroname="npc_dota_hero_earth_spirit" heroimagestyle="icon"/>
+      </Panel>
+
+      <Panel id="topbarradiantgold" class="topbarradiantgold">
+        <Label text="0" />
+      </Panel>
+
+      <Panel id="topbardiretext" class="topbardiretext">
+      	<Label text="Dire's Highest net worth hero : " />
+      </Panel>
+
+      <Panel id="topbardirepicture" class="topbardirepicture">
+        <DOTAHeroImage heroname="npc_dota_hero_earth_spirit" heroimagestyle="icon"/>
+      </Panel>
+
+      <Panel id="topbardiregold" class="topbardiregold">
+        <Label text="0" />
+      </Panel>
+    </Panel>
+</root>

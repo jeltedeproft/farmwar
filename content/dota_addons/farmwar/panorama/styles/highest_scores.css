@@ -1,0 +1,59 @@
+.topbarradianttext {
+	width: 700px;
+	height: 100px;
+	margin-top: 10px;
+	margin-left: 250px;
+	position: 0px 0px 0px;
+	font-family: Goudy Trajan Medium;
+	font-size: 12;
+	color: #cbcbcbff;
+}
+
+.topbarradiantpicture {
+	width: 500px;
+	height: 100px;
+	margin-top: 0px;
+	margin-left: 490px;
+	position: 0px 0px 0px;
+}
+
+.topbarradiantgold {
+	width: 700px;
+	height: 100px;
+	margin-top: 10px;
+	margin-left: 530px;
+	position: 0px 0px 0px;
+	font-family: Goudy Trajan Medium;
+	font-size: 12;
+	color: #cbcbcbff;
+}
+
+.topbardiretext {
+	width: 700px;
+	height: 100px;
+	margin-top: 10px;
+	margin-left: 1040px;
+	position: 0px 0px 0px;
+	font-family: Goudy Trajan Medium;
+	font-size: 12;
+	color: #cbcbcbff;
+}
+
+.topbardirepicture {
+	width: 500px;
+	height: 100px;
+	margin-top: 0px;
+	margin-left: 1260px;
+	position: 0px 0px 0px;
+}
+
+.topbardiregold {
+	width: 700px;
+	height: 100px;
+	margin-top: 10px;
+	margin-left: 1310px;
+	position: 0px 0px 0px;
+	font-family: Goudy Trajan Medium;
+	font-size: 12;
+	color: #cbcbcbff;
+}
